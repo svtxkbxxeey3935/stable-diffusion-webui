@@ -1,4 +1,4 @@
-# Stable Diffusion web UI
+# Stable Diffusion web UI-Fork
 A browser interface based on Gradio library for Stable Diffusion.
 
 ![](screenshot.png)
